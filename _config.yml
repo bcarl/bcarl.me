@@ -1,9 +1,13 @@
-exclude: ['CNAME', 'README.md', 'img/bg-original.jpg']
+exclude: ['CNAME', 'README.md', 'img/bg-original.jpg', 'js']
 include: ['.well-known']
 
 scheme: https://
 domain: bcarl.me
 title: Brandon Carl
+
+analytics:
+  google: UA-8037129-7
+  quantcast: p-7hPndKEtYPNjY
 
 defaults:
   -

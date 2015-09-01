@@ -1,0 +1,59 @@
+---
+---
+<!DOCTYPE html>
+<html lang=en>
+<head><meta charset="utf-8"><title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<link type="text/plain" rel="author" href="{{ site.scheme }}{{ site.domain }}/humans.txt">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html {
+  background: url(img/bg.jpg) no-repeat top right fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font: 12pt "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #000;
+}
+a, a:hover, a:visited {
+  color: #333;
+  width: 21px;
+  height: 21px;
+  text-decoration: none;
+}
+section {
+  width: 33%;
+  min-width: 280px;
+  margin: 7% 6% auto auto;
+  font-size: 0.9rem;
+}
+header {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+p {
+  margin: 0.5rem 0;
+  line-height: 1.2rem;
+}
+footer > a {
+  font-size: 1.35rem;
+  padding-right: 0.6rem;
+}
+</style>
+</head>
+<body>
+<section>
+{{ content }}
+</section>
+<script>
+var c = function() {
+  var l = document.createElement('link'); l.rel = 'stylesheet';
+  l.href = '//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css';
+  var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+}
+var r = requestAnimationFrame || mozRequestAnimationFrame ||
+  webkitRequestAnimationFrame || msRequestAnimationFrame
+if (r) { r(c) } else { window.addEventListener('load', c) }
+</script>
+</body>
+</html>

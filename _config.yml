@@ -1,0 +1,14 @@
+exclude: ['CNAME', 'README.md']
+include: ['.well-known']
+
+scheme: https://
+domain: bcarl.me
+title: Brandon Carl
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: default

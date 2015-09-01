@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/bcarl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bcarl.me
+  * I am bcarl (https://keybase.io/bcarl) on keybase.
+  * I have a public key with fingerprint 9F77 306B C9E6 297D 34E7  2A7A 5C2C F74C D843 9578
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "9f77306bc9e6297d34e72a7a5c2cf74cd8439578",
+            "host": "keybase.io",
+            "key_id": "5C2CF74CD8439578",
+            "uid": "1892dabcc86d3ff63ce67b77c9e46e00",
+            "username": "bcarl"
+        },
+        "merkle_root": {
+            "ctime": 1440278601,
+            "hash": "111797a67ba65a555f8cf0b35d3be598f72f86446a04dca67c56ec4d205e562324b3d9e54e69e3c1cb8f178fc72b6e79af4d823b3a9cffbf8eb5b33c6eddff38",
+            "seqno": 280560
+        },
+        "service": {
+            "hostname": "bcarl.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1440278689,
+    "expire_in": 157680000,
+    "prev": "f064510ca20683ab1284115eb605e94277457d48037adeac8e178c5adc97bad0",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdkn1QVFUYxhcWQTewTSkFDbbrmKEr3u8PEnOBcERGCwRsSrZ7zz0XLix7t91l
+ZYfBka0QxQkiSJgsxbJZQpjR5UMmMgaLRmWgxilpglAYRxEVpik1bJjuJRut89f5
++J3nfZ/nnJoIvc4Q9Ib5Xvpwcn1J0MVJQZc1fKOpFBEU0YsklCLAJkO7W5vZ+SKI
+JCCF0CvwLhgvKya7IsL4ApfpIWNGPNDpkhW7SqHxTDyHlJk1XLssyfY86HQ4ZU0L
+4SSGIVBaABykcY4RCRIyOM/wFMCBxJBAZEmCoxhWlcxXXO7/VEXmNa2yqO5SyXhy
+KkMmpzzii+cPMJbDRV4AgKVFQpJoAkCaERhGLUjSEEU10AWdDy0JgHfatGaLoLPQ
+Bq1ORZl3DNyydo6RJIozLI1iaju8K1/TxzCGY3hVk6cpnqIoiQUSKhCUSAiQ4liJ
+wSWWJkmaR0kRqBygaAhIEUcpSNE4gZMCIXKQIiHNQQJgQGAljGElwOACDRmOl0iR
+xQmB4DkgSYLEQoESCALQUBQlidCMuuBbdgVJwFmUotEybe30yABqfWuZPW4tXp2a
+EYdTcStAsam7+W63w5WgOXZ7HRq2BwrWfwT80CrIdlF9rsffE1PR/6XBcmYEljhk
+J7TKGkExNIuqQysEPaqmhNIkhaGAx1GaJXgBw1kSwygo0GoIHIkzDEkxIsmiBMOL
+kAcsVBMAFC8CTo1VRB95xHC1UT5P1XTJeXbeXeyESNmB4JUhuiCDLnRBsPZjdYZF
+xn+/sT7GqPMVRxUnpEx/nEnNjV6xtBq/aks9sW4uYuuBlF//iMvyjrZFLeLiT7+9
+2huDrw18mEVlHL1+fOxyXGXFmen2Wc5ydvROTmxuxyweaOz5NHQDKaLV5bX6y7pd
+vprKsJFu02nD0JDuh6YzXQcNtVFH7vqUk3Tksa72zKdvgv6md+4KSX9mvKa0LN50
+vqK641vzC4r++NU1hlZfSza/bMT/1+4vI9safv5t4WD7zYHljhuNTSWdRLi/Ecve
+tbvp6oDHUGiZWRyyIrEkcaOpcqpq0pwYfT13TvQH6kbCbX17Y747uu3WkqLYZZOx
+UYH1vj5dd8IrZxMLp5DcuVfL72RkL9Hj99M2V628dH9u55C+/9iz4dwHLcaX96eH
+TO1PvZc0LF4cXWgsHFnu3WpWMq6dCh+faLScuJC9/Uff7YKTaQ+KQqttXutP7xq6
+O02919YnSwu2RD1h3lwzsSFnz7kG0Wy0jr8ub3LPRD/z0hbL17MPukpXWUImhE96
+iyPTJ56K6B3AZj6KQ/YNVIf1+yqSBgKuLzwxfTNVaw8/WVw3vbOhPmaMiigr/2Xi
+m+ie5s8P79iGjBs+Szyf89y5tsClcONAc4GldrDVfUTXufr79/Xc7TXv1TsykR3b
+PatWdGw0WWaw2vSlYXWn1jX07HMu/f2WX9cQPfb8Ff+hvS9ONSf29mcczA0evPBm
+2t8=
+=izWW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bcarl
+
+==================================================================

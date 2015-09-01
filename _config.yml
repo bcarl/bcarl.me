@@ -1,4 +1,4 @@
-exclude: ['CNAME', 'README.md', 'img/bg-original.jpg', 'i/bg*', 'j/site*']
+exclude: ['CNAME', 'README.md', 'j/site.js']
 include: ['.well-known']
 
 scheme: https://

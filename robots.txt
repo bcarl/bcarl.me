@@ -1,4 +1,7 @@
 User-Agent: *
 Disallow: /.well-known/
 Disallow: /a/
-Disallow: /img/
+Disallow: /c/
+Disallow: /f/
+Disallow: /i/
+Disallow: /j/

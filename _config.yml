@@ -7,7 +7,9 @@ title: Brandon Carl
 
 analytics:
   google: UA-8037129-7
+  google_src: '/j/a.js'
   quantcast: p-7hPndKEtYPNjY
+  quantcast_src: '//quantserve.com/quant.js'
 
 defaults:
   -

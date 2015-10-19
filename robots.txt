@@ -5,3 +5,4 @@ Disallow: /c/
 Disallow: /f/
 Disallow: /i/
 Disallow: /j/
+Disallow: /favicon.ico

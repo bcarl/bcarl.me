@@ -1,0 +1,29 @@
+/* CSS will be minified by CloudFlare */
+html {
+  background: url(/b.jpg) no-repeat top right fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font: 12pt Helvetica, sans-serif;
+  color: #000;
+}
+div {
+  width: 33%;
+  min-width: 280px;
+  margin: 7% 6% auto auto;
+  font-size: 0.9rem;
+}
+header {
+  font-size: 1.45rem;
+  font-weight: bold;
+}
+p {
+  margin: 0.5rem 0;
+  line-height: 1.2rem;
+}
+a, a:visited {
+  color: #333;
+  font-size: 1.6rem;
+  padding-right: 0.7rem;
+}

@@ -1,0 +1,5 @@
+/*!
+ *  Font Awesome 4.4.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+@font-face{font-family:'FontAwesome';src:url('/f.eot?v=4.4.0');src:url('/f.eot?#iefix&v=4.4.0') format('embedded-opentype'),url('/f.woff2?v=4.4.0') format('woff2'),url('/f.woff?v=4.4.0') format('woff'),url('/f.ttf?v=4.4.0') format('truetype'),url('/f.svg?v=4.4.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-envelope-square:before{content:"\f199"}.fa-facebook-square:before{content:"\f082"}.fa-github-square:before{content:"\f092"}.fa-linkedin-square:before{content:"\f08c"}.fa-lock:before{content:"\f023"}.fa-twitter-square:before{content:"\f081"}

@@ -1,7 +1,10 @@
 User-Agent: *
 Disallow: /.well-known/
-Disallow: /a/
-Disallow: /c/
 Disallow: /f/
-Disallow: /i/
+Disallow: /b.jpg
 Disallow: /favicon.ico
+Disallow: /i.css
+Disallow: /s.css
+Disallow: /w.m4a
+Disallow: /w.mp3
+Disallow: /w.ogg
